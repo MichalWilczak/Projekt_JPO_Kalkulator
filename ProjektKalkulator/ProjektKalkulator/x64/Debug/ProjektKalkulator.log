@@ -1,0 +1,6 @@
+﻿  ProjektKalkulator.cpp
+C:\Users\michl\Desktop\Projekt JPO Kalkulator\ProjektKalkulator\ProjektKalkulator\ProjektKalkulator.cpp(27,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\michl\Desktop\Projekt JPO Kalkulator\ProjektKalkulator\ProjektKalkulator\ProjektKalkulator.cpp(143,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\michl\Desktop\Projekt JPO Kalkulator\ProjektKalkulator\ProjektKalkulator\ProjektKalkulator.cpp(166,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\michl\Desktop\Projekt JPO Kalkulator\ProjektKalkulator\ProjektKalkulator\ProjektKalkulator.cpp(200,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ProjektKalkulator.vcxproj -> C:\Users\michl\Desktop\Projekt JPO Kalkulator\ProjektKalkulator\x64\Debug\ProjektKalkulator.exe
