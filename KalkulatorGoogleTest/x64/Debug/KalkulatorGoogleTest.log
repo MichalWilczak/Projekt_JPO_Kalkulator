@@ -1,7 +1,0 @@
-﻿  pch.cpp
-  test.cpp
-C:\Users\michl\Documents\JPO\KalkulatorUnitTest\KalkulatorUnitTest.h(21,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\michl\Documents\JPO\KalkulatorUnitTest\KalkulatorUnitTest.h(105,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\michl\Documents\JPO\KalkulatorUnitTest\KalkulatorUnitTest.h(128,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\michl\Documents\JPO\KalkulatorUnitTest\KalkulatorUnitTest.h(162,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  KalkulatorGoogleTest.vcxproj -> C:\Users\michl\Documents\JPO\KalkulatorGoogleTest\x64\Debug\KalkulatorGoogleTest.exe
