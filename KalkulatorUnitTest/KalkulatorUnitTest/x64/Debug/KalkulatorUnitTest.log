@@ -1,0 +1,6 @@
+﻿  KalkulatorUnitTest.cpp
+C:\Users\michl\Documents\JPO\KalkulatorUnitTest\KalkulatorUnitTest\KalkulatorUnitTest.cpp(21,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\michl\Documents\JPO\KalkulatorUnitTest\KalkulatorUnitTest\KalkulatorUnitTest.cpp(105,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\michl\Documents\JPO\KalkulatorUnitTest\KalkulatorUnitTest\KalkulatorUnitTest.cpp(128,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\michl\Documents\JPO\KalkulatorUnitTest\KalkulatorUnitTest\KalkulatorUnitTest.cpp(162,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  KalkulatorUnitTest.vcxproj -> C:\Users\michl\Documents\JPO\KalkulatorUnitTest\x64\Debug\KalkulatorUnitTest.exe
