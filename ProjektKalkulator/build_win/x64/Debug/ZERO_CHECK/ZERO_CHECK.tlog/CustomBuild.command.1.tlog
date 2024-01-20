@@ -1,0 +1,10 @@
+^C:\USERS\MICHL\DOCUMENTS\JPO\PROJEKTKALKULATOR\BUILD_WIN\CMAKEFILES\2E95925F94133A9738F5C93F54A2B458\GENERATE.STAMP.RULE
+setlocal
+C:\Users\michl\Downloads\cmake-3.28.0-rc1-windows-x86_64\cmake-3.28.0-rc1-windows-x86_64\bin\cmake.exe -SC:/Users/michl/Documents/JPO/ProjektKalkulator -BC:/Users/michl/Documents/JPO/ProjektKalkulator/build_win --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/michl/Documents/JPO/ProjektKalkulator/build_win/ProjektKalkulator.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

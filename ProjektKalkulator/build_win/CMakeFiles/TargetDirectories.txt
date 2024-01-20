@@ -1,0 +1,3 @@
+C:/Users/michl/Documents/JPO/ProjektKalkulator/build_win/CMakeFiles/ProjektKalkulator.dir
+C:/Users/michl/Documents/JPO/ProjektKalkulator/build_win/CMakeFiles/ALL_BUILD.dir
+C:/Users/michl/Documents/JPO/ProjektKalkulator/build_win/CMakeFiles/ZERO_CHECK.dir
